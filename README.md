@@ -7,10 +7,11 @@ It demostrate how to accomplish the task. Script can be modified as per your nee
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+```
 Note: 
 1: The script was test on Windows OS.
 2: [NovatecConsulting](https://github.com/NovaTecConsulting/JMeter-InfluxDB-Writer/releases) JMeter plugin to used in JMeter to send data to Influxdb.
-
+```
 
 ### Prerequisites
 
