@@ -29,7 +29,6 @@ What things you need to execute the script
 ```
 1: Python 3.5
 2: Influxdb, Panda & Matlab packages installed
-
 ```
 
 ### Execution
